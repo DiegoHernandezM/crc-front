@@ -1,0 +1,16 @@
+{
+  "name": "Crc App",
+  "short_name": "Crc",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "logo/logo-ccp.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
